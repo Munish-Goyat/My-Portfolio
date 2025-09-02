@@ -1,4 +1,12 @@
-# My-Portfolio
-This project is a personal portfolio website developed with React.js, created to present my skills, academic background, and projects in a professional and interactive way. The portfolio has been designed with a responsive layout, ensuring smooth accessibility across devices including desktop, tablet, and mobile. It leverages React components and React Router for modular development and easy navigation, along with custom styling and animations to enhance the overall user experience.
+# React + Vite
 
-Through this project, I aimed to not only build a visually appealing platform but also to strengthen my practical knowledge of state management, props, component reusability, and deployment workflows. The portfolio highlights my work, provides contact information, and serves as a dynamic showcase of my journey in web development. It reflects both my technical learning and creative expression, making it a strong foundation to demonstrate my growth as a developer.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
