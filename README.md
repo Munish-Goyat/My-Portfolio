@@ -1,2 +1,4 @@
 # My-Portfolio
-Built a responsive and dynamic portfolio website using React.js to showcase my skills, projects, and journey in web development.
+This project is a personal portfolio website developed with React.js, created to present my skills, academic background, and projects in a professional and interactive way. The portfolio has been designed with a responsive layout, ensuring smooth accessibility across devices including desktop, tablet, and mobile. It leverages React components and React Router for modular development and easy navigation, along with custom styling and animations to enhance the overall user experience.
+
+Through this project, I aimed to not only build a visually appealing platform but also to strengthen my practical knowledge of state management, props, component reusability, and deployment workflows. The portfolio highlights my work, provides contact information, and serves as a dynamic showcase of my journey in web development. It reflects both my technical learning and creative expression, making it a strong foundation to demonstrate my growth as a developer.
